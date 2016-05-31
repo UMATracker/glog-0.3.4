@@ -1,0 +1,21 @@
+﻿  logging.cc
+C:\Users\Rito\Desktop\glog-0.3.4\src\windows\port.h(119): warning C4005: 'va_copy': マクロが再定義されました。
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\stdarg.h(20): note: 'va_copy' の以前の定義を確認してください
+..\..\src\logging.cc(194): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(210): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(624): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(757): warning C4267: '引数': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(782): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(792): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1073): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1073): warning C4267: '初期化中': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1334): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1334): warning C4267: '初期化中': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1407): warning C4267: '引数': 'size_t' から 'const int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1429): warning C4267: '引数': 'size_t' から 'unsigned int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1462): error C4235: 非標準の拡張機能が使用されています: '__asm' キーワードはこのアーキテクチャではサポートされていません
+..\..\src\logging.cc(1462): warning C4091: '': 変数が何も宣言されていないときは、'int' の左辺を無視します。
+..\..\src\logging.cc(1462): error C2143: 構文エラー: ';' が '定数' の前にありません。
+..\..\src\logging.cc(1466): error C2143: 構文エラー: ';' が '}' の前にありません。
+..\..\src\logging.cc(1507): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+..\..\src\logging.cc(1520): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
